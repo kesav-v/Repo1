@@ -1,1 +1,10 @@
-No events posted yet.
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <description>
+        <![CDATA[  <br/> Tuesday, January 12 2016 <br/> Event1 <br/> the first event <br/> 6:00 PM <br/> House1 <br/> money for event <br/> Person1 <br/> 1600 Pennsylvania Ave NW, Washington, DC 20500 <br/> ]]>
+      </description>
+    </item>
+  </channel>
+</rss>
