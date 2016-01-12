@@ -1,0 +1,22 @@
+.css-events-list {
+  text-align: center;
+  font-size: 1.6em;
+}
+
+.css-events-list p {
+  margin-top: 0;
+  margin-bottom: .5em;
+}
+
+.event-date {
+  font-size: 1.8em;
+  font-style: italic;
+}
+
+.event-title {
+  font-size: 1.7em;
+}
+
+.event-details p {
+  margin-bottom: .25em;
+}
